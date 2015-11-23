@@ -6,11 +6,11 @@
       "package": {
         "name": "wordpress/wordpress",
         "type": "webroot",
-        "version": "4.1.1",
+        "version": "4.3.1",
         "source": {
           "type": "git",
           "url": "https://github.com/WordPress/WordPress.git",
-          "reference": "4.1.1"
+          "reference": "4.3.1"
         },
         "require": {
           "fancyguy/webroot-installer": "1.0.0"
@@ -19,7 +19,7 @@
     }
   ],
   "require": {
-    "wordpress/wordpress": "4.1.*",
+    "wordpress/wordpress": "4.3.*",
     "vlucas/phpdotenv": "1.1.*"
   },
   "extra": {
